@@ -228,7 +228,8 @@ graph TD
 - **Closing Visual**: BimaNyaya logo with tagline: *Nyaya Har Policyholder Ke Liye (Justice for Every Policyholder)*.
 - **VO**: 
   > *"From unfair deduction to full settlement in minutes. BimaNyaya bridges the gap between policyholders and insurance justice. Try BimaNyaya today and reclaim what is rightfully yours."*
-- **Call to Action**: *Visit bimanyaya.in | GitHub: github.com/Rekha-1kumari/clonerC*
+- **Call to Action**: *Visit bimanyaya.in | GitHub: github.com/Rekha-1kumari/razorpay-buildathon*
+
 
 
 ---
@@ -320,7 +321,8 @@ Phase 4 (Months 18-24)  ──> Enterprise FinTech & Insurance Broker API Licens
 ## Contact & Investment Inquiries
 
 - **Platform URL**: [https://bimanyaya.in](https://bimanyaya.in)
-- **GitHub Repository**: [https://github.com/Rekha-1kumari/clonerC](https://github.com/Rekha-1kumari/clonerC)
+- **GitHub Repository**: [https://github.com/Rekha-1kumari/razorpay-buildathon](https://github.com/Rekha-1kumari/razorpay-buildathon)
 - **Founder & Maintainer**: Rekha Kumari
 - **Email**: contact@bimanyaya.in / rekha@bimanyaya.in
+
 
